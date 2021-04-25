@@ -7,3 +7,15 @@ Salvage combats this by providing an easy to use interface to let you find peopl
 **Tech**
 
 Salvage was built with React JS and Firebase, allowing it to update in real time. Additionally, all user data is securely stored on the cloud and backed up, guaranteeing an almost perfect uptime on the site
+
+
+**LIBRARIES**
+Bootstrap
+React-bootstrap
+React.js
+Firebase
+React-router
+Font Awesome
+Yarn
+Zipcodes
+Stripe.js
