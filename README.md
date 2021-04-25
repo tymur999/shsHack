@@ -10,12 +10,12 @@ Salvage was built with React JS and Firebase, allowing it to update in real time
 
 
 **LIBRARIES**
-Bootstrap
-React-bootstrap
-React.js
-Firebase
-React-router
-Font Awesome
-Yarn
-Zipcodes
-Stripe.js
+* Bootstrap
+* React-bootstrap
+* React.js
+* Firebase
+* React-router
+* Font Awesome
+* Yarn
+* Zipcodes
+* Stripe.js
